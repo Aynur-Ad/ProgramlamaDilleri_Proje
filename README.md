@@ -73,7 +73,7 @@ Factor -> id | number | ( Expr )
 
 ## 📄 Makale
 
-👉 [Geliştirme Süreci Üzerine Makale (Medium)]([https://medium.com/link-buraya](https://medium.com/@aynuradibelli27/ger%C3%A7ek-zamanl%C4%B1-s%C3%B6z-dizimi-vurgulay%C4%B1c%C4%B1-python-ve-tkinter-ile-geli%C5%9Ftirilmi%C5%9F-bir-uygulama-e17a8603737f))
+👉 [Geliştirme Süreci Üzerine Makale (Medium)] (https://medium.com/@aynuradibelli27/ger%C3%A7ek-zamanl%C4%B1-s%C3%B6z-dizimi-vurgulay%C4%B1c%C4%B1-python-ve-tkinter-ile-geli%C5%9Ftirilmi%C5%9F-bir-uygulama-e17a8603737f)
 
 ## 🔧 Nasıl Çalıştırılır?
 
