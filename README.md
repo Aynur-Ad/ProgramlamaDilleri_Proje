@@ -73,7 +73,11 @@ Factor -> id | number | ( Expr )
 
 ## 📄 Makale
 
-👉 [Geliştirme Süreci Üzerine Makale (Medium)] (https://medium.com/@aynuradibelli27/ger%C3%A7ek-zamanl%C4%B1-s%C3%B6z-dizimi-vurgulay%C4%B1c%C4%B1-python-ve-tkinter-ile-geli%C5%9Ftirilmi%C5%9F-bir-uygulama-e17a8603737f)
+👉 https://medium.com/@aynuradibelli27/ger%C3%A7ek-zamanl%C4%B1-s%C3%B6z-dizimi-vurgulay%C4%B1c%C4%B1-python-ve-tkinter-ile-geli%C5%9Ftirilmi%C5%9F-bir-uygulama-e17a8603737f
+
+## 📄 Final Raporu
+
+[Final Raporu (pdProje_FinalRaporu.docx)](docs/pdProje_FinalRaporu.docx)
 
 ## 🔧 Nasıl Çalıştırılır?
 
@@ -81,8 +85,7 @@ Factor -> id | number | ( Expr )
 2. Depoyu klonlayın:
 
    ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
-   cd proje-adi
+   git clone [(https://github.com/Aynur-Ad/ProgramlamaDilleri_Proje)]
    ```
 
 3. Uygulamayı başlatın:
