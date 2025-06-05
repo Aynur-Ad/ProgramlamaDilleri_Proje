@@ -62,6 +62,11 @@ Factor -> id | number | ( Expr )
 | Yorum  | Gri |
 | String  | Kahverengi |
 
+## Proje Çalışma Görselleri
+
+![İlk Hali](gorseller/gorsel1.png)
+![Çalışırkenki Hali](gorseller/gorsel2.png)
+
 ## 📺 Demo Videosu
 
 👉 [Demo Videosunu İzle](https://www.youtube.com/watch?v=nCBGt286roQ)
